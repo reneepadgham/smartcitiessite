@@ -235,9 +235,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 #break-text {
-  background-color: #016B9F;
-  color: #fff;
-  padding: 70px 0;
+  background-color: #fff;
+  color: #016B9F;
 }
 
 #break-text h2 {
@@ -282,7 +281,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/bg3.jpg);
+    background-image: url(../img/hands.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -342,9 +341,11 @@ section {
 }
 
 section h2.section-heading {
-    margin-top: 0;
-    margin-bottom: 15px;
-    font-size: 40px;
+  margin-top: 0;
+  margin-bottom: 30px;
+  font-size: 40px;
+  color: #016B9F;
+  font-weight: 300;
 }
 
 section h3.section-subheading {
@@ -671,39 +672,7 @@ aside.clients img {
 
 section#world {
     background-color: #222;
-    background-image: url(../img/map2.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-section#world-2 {
-    background-color: #222;
-    background-image: url(../img/map3.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-section#world-3 {
-    background-color: #222;
-    background-image: url(../img/map4.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-section#world-4 {
-    background-color: #222;
-    background-image: url(../img/map5.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
-section#world-5 {
-    background-color: #222;
-    background-image: url(../img/map6.jpg);
+    background-image: url(../img/map7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

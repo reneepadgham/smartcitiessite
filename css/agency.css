@@ -117,7 +117,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    padding: 15px 25px;
     border-color: #008FD5;
     border-radius: 3px;
     text-transform: uppercase;
@@ -237,7 +237,11 @@ fieldset[disabled] .btn-xl.active {
 #break-text {
   background-color: #016B9F;
   color: #fff;
-  padding: 100px 0;
+  padding: 70px 0;
+}
+
+#break-text h2 {
+  font-weight: 300;
 }
 
 #team {
@@ -278,7 +282,7 @@ fieldset[disabled] .btn-xl.active {
 header {
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/bg2.jpg);
+    background-image: url(../img/bg3.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -319,6 +323,7 @@ header .intro-text .intro-heading {
         margin-bottom: 25px;
         font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
         line-height: 40px;
+        font-weight: 300;
     }
 
     header .intro-text .intro-heading {
@@ -328,6 +333,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 400;
         line-height: 75px;
+        font-weight: 300;
     }
 }
 
@@ -665,7 +671,39 @@ aside.clients img {
 
 section#world {
     background-color: #222;
-    background-image: url(../img/world.jpg);
+    background-image: url(../img/map2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#world-2 {
+    background-color: #222;
+    background-image: url(../img/map3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#world-3 {
+    background-color: #222;
+    background-image: url(../img/map4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#world-4 {
+    background-color: #222;
+    background-image: url(../img/map5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section#world-5 {
+    background-color: #222;
+    background-image: url(../img/map6.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
